@@ -1,3 +1,4 @@
+
 <?php
 
 	// :: ONLY DURING DEVELOPMENT ::
@@ -73,11 +74,20 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="columns title small-10 small-offset-1 medium-7 large-5">
-					<h1 class="h3">Erisca is an end-to-end Project Update Platform for Real Estate Developers.</h1>
+				<div class="columns title small-10 small-offset-1 medium-8 large-7">
+					<h1 class="h2">Erisca is a single-window marketing service for Real Estate Developers.</h1>
 				</div>
 				<div class="columns description small-10 small-offset-1 large-6">
-					<p class="p text-neutral">Our website is currently being developed. If you’d like to be informed the minute we go live or if you’d like to talk to us, leave your information in the form below.</p>
+					<p class="p text-neutral">Developed and tested within our parent company <a href="https://lazaro.in/" target="_blank">lazaro.in</a> over the last 10 years, Erisca has 3 proven modules that amplify the reliability of all marketing and advertising expenditure:</p>
+					<br>
+					<br>
+					<ol class="p text-neutral">
+						<li style="color: #E5485E;">A Marketing Kit</li>
+						<li style="color: #E85946;">An Advertising Kit</li>
+						<li style="color: #E58F48;">A Predictive Lead Generation Platform </li>
+					</ol>
+					<br>
+					<p class="p text-neutral">Our website is currently being developed. If you’d like to talk to us, leave your information in the form below.</p>
 				</div>
 			</div>
 			<div class="action block-space-bottom">

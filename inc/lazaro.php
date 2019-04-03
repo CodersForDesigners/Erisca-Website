@@ -3,7 +3,7 @@
 <section class="lazaro-section">
 	<div class="container">
 		<a href="http://lazaro.in/" target="_blank" class="lazaro-link ga_lazaro_click">
-			<span>A product of</span> — <strong>www.Lazaro.in</strong>
+			<span>A division of</span> — <strong>www.Lazaro.in</strong>
 		</a>
 	</div>
 </section>
