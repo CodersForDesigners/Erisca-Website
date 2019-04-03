@@ -96,8 +96,8 @@
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Erisca">
 	<meta property="og:image" content="http://erisca.com/media/social/image.jpg">
-	<meta property="og:description" content="Erisca is an end-to-end Project Update Platform for Real Estate Developers.">
-	<meta property="og:site_name" content=Erisca">
+	<meta property="og:description" content="Erisca is a single-window marketing service for Real Estate Developers.">
+	<meta property="og:site_name" content="Erisca">
 	<meta property="og:locale" content="en_US">
 	<meta property="article:author" content="">
 
