@@ -1,0 +1,99 @@
+/*
+ * Placeholder Section
+ */
+
+
+.placeholder-section {
+	height: auto;
+	min-height: 95vh;
+}
+
+.placeholder-section .logo { 
+	padding: 10px; 
+	margin-bottom: 20px;
+}
+.placeholder-section .title { 
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.placeholder-section .description { 
+	padding: 10px; 
+	margin-bottom: 20px;
+}
+
+.placeholder-section .action,
+.placeholder-section .action .name,
+.placeholder-section .action .phone,
+.placeholder-section .action .email {
+	position: relative;
+}
+
+.placeholder-section .action .name input,
+.placeholder-section .action .phone input,
+.placeholder-section .action .email input {
+	padding-left: 18px;
+	padding-right: 40px;
+}
+
+.placeholder-section .action .name:after,
+.placeholder-section .action .phone:after,
+.placeholder-section .action .email:after {
+	content: '';
+	display: block;
+	height: 40px;
+	width: 34px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-size: 18px 18px;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+.placeholder-section .action .name:after { background-image: url('/media/glyph/icon-person.svg'); }
+.placeholder-section .action .phone:after { background-image: url('/media/glyph/icon-phone.svg'); }
+.placeholder-section .action .email:after { background-image: url('/media/glyph/icon-email.svg'); }
+
+.placeholder-section .action .column,
+.placeholder-section .action .columns {
+	margin-bottom: 15px;
+}
+
+
+@media( min-width: 640px )  {
+	.placeholder-section .action .column:nth-child(2n+1),
+	.placeholder-section .action .columns:nth-child(2n+1) {
+		padding-right: 10px;
+	}
+	.placeholder-section .action .column:nth-child(2n),
+	.placeholder-section .action .columns:nth-child(2n) {
+		padding-left: 10px;
+	}
+}
+
+@media( min-width: 1040px ) {
+	.placeholder-section .description { 
+		margin-top: 40px;
+	}
+}
+
+@media( min-width: 1380px ) {
+	.placeholder-section .description { 
+		margin-top: 80px;
+	}
+
+	.placeholder-section .action .name input,
+	.placeholder-section .action .phone input,
+	.placeholder-section .action .email input {
+		padding-left: 25px;
+		padding-right: 50px;
+	}
+	.placeholder-section .action .name:after,
+	.placeholder-section .action .phone:after,
+	.placeholder-section .action .email:after {
+		height: 50px;
+		width: 44px;
+		background-size: 24px 24px;
+	}
+}
